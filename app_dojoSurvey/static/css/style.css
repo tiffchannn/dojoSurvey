@@ -1,0 +1,17 @@
+h1{
+  font-family: monospace;
+  color: blue;
+  text-align: center;
+}
+
+.container{
+  font-family: monospace;
+  border: 1px solid lightblue;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 380px;
+  width: 500px;
+  margin-left: 25%;
+  padding-left: 44px;
+}
